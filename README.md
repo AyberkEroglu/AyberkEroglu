@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ayberk and i am studying computer engineering at Bilkent University. I am a freshman and i am really excited to learn more about programming.
 
 <!--
 **AyberkEroglu/AyberkEroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
